@@ -139,7 +139,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/devesh-gupta-9948a42a6"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://leetcode.com/u/Devesh%20Gupta%1008846001"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
+  <a href="https://leetcode.com/u/Devesh_Gupta_1008846001/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"></a>
   <a href="https://codeforces.com/profile/guptagovind0370"><img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"></a>
 </p>
 
