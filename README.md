@@ -107,8 +107,9 @@
 ## 🏆 Achievements
 
 * 🧠 1100+ LeetCode Problems (1500+ rating)
-* ⚡ Codeforces 1200+
+* ⚡ Codeforces (1200+ rating)
 * ⭐ HackerRank 5-Star
+* 📘 100+ CodeShef problems
 * 📘 100+ GFG problems
 
 ---
