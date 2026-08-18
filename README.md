@@ -16,7 +16,7 @@
 
 * 🎓 B.Tech CSE @ Pranveer Singh Institute of Technology
 * 🤖 Specializing in Artificial Intelligence & Machine Learning
-* 🧠 Solved **1100+ DSA problems** (LeetCode 1500+ rating)
+* 🧠 Solved **1300+ DSA problems** (LeetCode 1500+ rating)
 * ⚡ Codeforces (1200+), CodeChef, GFG active
 * 🔬 Building AI systems using Deep Learning, NLP & CV
 * 🚀 Experience in end-to-end ML pipelines + deployment
