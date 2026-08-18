@@ -3,7 +3,7 @@
 ### 🚀 AI Engineer | Deep Learning | Competitive Programmer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Deep+Learning+Specialist;NLP+%7C+Computer+Vision;1100%2B+LeetCode+Problems;Building+Real+World+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Deep+Learning+Specialist;NLP+%7C+Computer+Vision;1300%2B+LeetCode+Problems;Building+Real+World+AI+Systems" />
 </p>
 
 <p align="center">
