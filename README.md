@@ -91,10 +91,11 @@
 
 
 ---
-
 ## 📈 Activity Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Govind-ji\&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Govind-ji&theme=tokyo-night" />
+</p>
 
 ---
 
