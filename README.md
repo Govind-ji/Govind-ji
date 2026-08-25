@@ -89,10 +89,9 @@
   <img src="https://streak-stats.demolab.com?user=Govind-ji&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📈 Activity Graph
 
----![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Govind-ji&theme=github-compact)
----
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=Govind-ji\&theme=tokyo-night)
 ## 🏆 Achievements
 
 * 🧠 1300+ LeetCode Problems (1500+ rating)
