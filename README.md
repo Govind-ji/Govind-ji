@@ -91,11 +91,7 @@
 
 
 ---
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Govind-ji&theme=tokyo-night" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Govind-ji&theme=tokyo-night)
 
 ---
 
