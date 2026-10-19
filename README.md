@@ -3,7 +3,7 @@
 ### 🚀 AI Engineer | Deep Learning | Competitive Programmer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Deep+Learning+Specialist;NLP+%7C+Computer+Vision;1300%2B+LeetCode+Problems;Building+Real+World+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Deep+Learning+Specialist;NLP+%7C+Computer+Vision;1400%2B+LeetCode+Problems;Building+Real+World+AI+Systems" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 * 🎓 B.Tech CSE @ Pranveer Singh Institute of Technology
 * 🤖 Specializing in Artificial Intelligence & Machine Learning
-* 🧠 Solved **1300+ DSA problems** (LeetCode 1700+ rating)
+* 🧠 Solved **1400+ DSA problems** (LeetCode 1700+ rating)
 * ⚡ Codeforces (1200+), CodeChef, GFG active
 * 🔬 Building AI systems using Deep Learning, NLP & CV
 * 🚀 Experience in end-to-end ML pipelines + deployment
@@ -99,7 +99,7 @@
 ---
 ## 🏆 Achievements
 
-* 🧠 1300+ LeetCode Problems (1500+ rating)
+* 🧠 1400+ LeetCode Problems (1500+ rating)
 * ⚡ Codeforces (1200+ rating)
 * ⭐ HackerRank 5-Star
 * 📘 100+ CodeShef problems
