@@ -98,16 +98,18 @@
   <img src="https://img.shields.io/badge/GFG-100%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </p>
 
-## 🏅 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Govind-ji&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://ghchart.rshah.org/00F7FF/Govind-ji" alt="GitHub contribution chart" />
 </p>
 
-## 📈 Activity Graph
+## 🌟 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Govind-ji&theme=tokyo-night&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/Govind-ji?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/stars/Govind-ji?style=for-the-badge&logo=github&color=yellow" />
+  <img src="https://img.shields.io/github/search/Govind-ji/Govind-ji/Govind-ji?style=for-the-badge&label=Repos&color=00F7FF" />
 </p>
 
 -------
