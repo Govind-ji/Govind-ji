@@ -85,15 +85,32 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Govind-ji&theme=tokyonight&hide_border=true" />
 </p>
-
-## 📊 GitHub Statistics
+## 📊 Coding Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Govind-ji&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govind-ji&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://leetcard.jacoblin.cool/Devesh_Gupta_1008846001?theme=dark&font=Karma&ext=heatmap" height="200" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-1400%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-1200%2B-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-5%E2%98%85-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+  <img src="https://img.shields.io/badge/GFG-100%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</p>
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Govind-ji&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Govind-ji&theme=tokyo-night&hide_border=true" />
+</p>
+
+-------
 ## 🏆 Achievements
 
 * 🧠 1400+ LeetCode Problems (1500+ rating)
