@@ -85,6 +85,8 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Govind-ji&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 ## 📊 Coding Stats
 
 <p align="center">
@@ -104,15 +106,7 @@
   <img src="https://ghchart.rshah.org/00F7FF/Govind-ji" alt="GitHub contribution chart" />
 </p>
 
-## 🌟 GitHub Overview
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Govind-ji?style=for-the-badge&logo=github&color=blue" />
-  <img src="https://img.shields.io/github/stars/Govind-ji?style=for-the-badge&logo=github&color=yellow" />
-  <img src="https://img.shields.io/github/search/Govind-ji/Govind-ji/Govind-ji?style=for-the-badge&label=Repos&color=00F7FF" />
-</p>
-
--------
+---
 ## 🏆 Achievements
 
 * 🧠 1400+ LeetCode Problems (1500+ rating)
