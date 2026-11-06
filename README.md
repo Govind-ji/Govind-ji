@@ -100,11 +100,7 @@
   <img src="https://img.shields.io/badge/GFG-100%2B_Solved-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </p>
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/00F7FF/Govind-ji" alt="GitHub contribution chart" />
-</p>
 
 ---
 ## 🏆 Achievements
