@@ -87,7 +87,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Govind-ji&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Govind-ji&theme=tokyonight" />
 </p>
 
 
